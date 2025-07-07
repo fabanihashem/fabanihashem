@@ -10,20 +10,21 @@ Hi there! :wave: I'm Fateme
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-## :rocket: About Me
+ :rocket: About Me
 
 - :mortar_board: **Current Education**: University of Toronto Data Science & Machine Learning Certificate
-- :robot_face: **Career Focus**: Data Analysis, Machine Learning, Business Intelligence, and Data-Driven Product Strategy
+- :space_invader: **Career Focus**: Data Analysis, Machine Learning, Business Intelligence, and Data-Driven Product Strategy
 - :bulb: **Entrepreneurship**: Co-founder of BeepLife - a digital health startup improving virtual care access
 - :earth_africa: **Open to**: Data science collaborations and innovative analytics projects
 ---
 ## :hammer_and_wrench: **Tech Stack**
-### Programming Languages
+**Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
-### Machine Learning & AI
+
+**Machine Learning & AI**
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -33,7 +34,8 @@ Hi there! :wave: I'm Fateme
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
-### Data Science & Analytics
+
+**Data Science & Analytics**
 <p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -45,21 +47,24 @@ Hi there! :wave: I'm Fateme
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
 </p>
-### Databases
+
+**Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
-### ML Deployment & Web Frameworks
+
+**ML Deployment & Web Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
-### Cloud & DevOps
+
+**Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -68,26 +73,34 @@ Hi there! :wave: I'm Fateme
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
----
+
 ## :trophy: Featured Projects
 <!--
+
 ### :dart: Sample Project Template
+
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=fabanihashem&repo=project-repo-name&theme=graywhite&show_owner=true)](https://github.com/fabanihashem/project-repo-name)
 ### :chart_with_upwards_trend: Data Analysis Portfolio
+
 [![Data Projects](https://github-readme-stats.vercel.app/api/pin/?username=fabanihashem&repo=data-analysis-portfolio&theme=graywhite&show_owner=true)](https://github.com/fabanihashem/data-analysis-portfolio)
 ### :robot_face: Machine Learning Showcase
+
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=fabanihashem&repo=ml-projects&theme=graywhite&show_owner=true)](https://github.com/fabanihashem/ml-projects)
 -->
 *Featured projects coming soon! Currently working on exciting data science and machine learning projects.*
 ---
 ## :mortar_board: Education & Certifications
+
 <details>
 <summary><b>:school: Formal Education</b></summary>
+  
 - :classical_building: University of Toronto - Certificate in Data Science & Machine Learning Foundations (2025)
+
 - :classical_building: The Virtual University (TVU) - Bachelor of Science in Information Technology (2013-2018)
 </details>
 <details>
-<summary><b>:sports_medal: Key Skills & Competencies</b></summary>
+<summary><b>:bowling: Key Skills & Competencies</b></summary>
+  
 - :microscope: Deep Learning, Algorithms & Data Structures
 - :bar_chart: Data Visualization, Sampling & Statistical Analysis
 - :snake: Python Programming for Data Manipulation & Visualization
@@ -96,16 +109,21 @@ Hi there! :wave: I'm Fateme
 - :arrows_counterclockwise: Git/GitHub Version Control & Collaborative Development
 - :penguin: Unix Shell Scripting & Workflow Automation
 </details>
----
-## :chart_with_upwards_trend: Achievement Highlights
+
+
+:chart_with_upwards_trend: Achievement Highlights
+
 :dart: **Product & Business Impact**
+
 - Co-founded BeepLife digital health startup, driving data-driven product strategy
 - Built KPI tracking dashboards that improved user engagement monitoring
 - Reduced project review cycles by 2 days through effective technical communication
+
 :briefcase: **Technical Excellence**
 - Applied statistical sampling methods for accurate data collection and reproducible analysis
 - Delivered data-driven project ahead of schedule through collaborative teamwork
 - Identified and corrected data errors in complex datasets, preventing faulty model conclusions
+  
 :rocket: **Innovation & Leadership**
 - Led product and competitor research to shape MVP feature development
 - Collaborated with cross-functional teams to communicate data-backed decisions
@@ -119,8 +137,7 @@ Hi there! :wave: I'm Fateme
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabanihashem&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Fateme's Top Languages"/>
 </div>
----
-## :handshake: Let's Connect!
+:handshake: Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/fateme-banihashem/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
