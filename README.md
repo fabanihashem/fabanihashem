@@ -1,4 +1,4 @@
-Hi there! :wave: I'm Fateme Banihashem
+Hi there! :wave: I'm Fateme 
 <div align="center">
   <!-- Custom header with data science theme -->
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Fateme%20Banihashem&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=20"/>
@@ -11,6 +11,7 @@ Hi there! :wave: I'm Fateme Banihashem
   </a>
 </p>
 ## :rocket: About Me
+
 - :mortar_board: **Current Education**: University of Toronto Data Science & Machine Learning Certificate
 - :robot_face: **Career Focus**: Data Analysis, Machine Learning, Business Intelligence, and Data-Driven Product Strategy
 - :bulb: **Entrepreneurship**: Co-founder of BeepLife - a digital health startup improving virtual care access
